@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Relaxsessel Steuerung V2</string>
+    <string name="toolbar_app_name">Relaxchair Controller</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_header">Menu</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_nfc">NFC</string>
+    <string name="menu_user">User</string>
+    <string name="menu_load">Load Position</string>
+    <string name="menu_save">Save Position</string>
+    <string name="dialog_load_">Do you want to load the favourite position of Thomas Pust?</string>
+    <string name="dialog_save">Do you want to save your current position?</string>
+    <string name="toolbar_list_name">User List</string>
+    <string name="dialog_hint">Username</string>
+    <string name="dialog_delete_head">Delete User</string>
+    <string name="dialog_delete">Are you sure you want to delete this User?</string>
+    <string name="positive_button">YES</string>
+    <string name="negative_button">NO</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="dialog_nfc_headline">NFC aktivieren?</string>
+    <string name="dialog_nfc_text">Wollen Sie die NFC-Funktion Ihres Smartphones aktivieren?</string>
+</resources>

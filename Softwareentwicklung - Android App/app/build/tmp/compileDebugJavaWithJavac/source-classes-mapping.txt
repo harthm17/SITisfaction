@@ -1,0 +1,33 @@
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/RssApp.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.RssApp
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/recyclerAdapter/CardViewHolder.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.recyclerAdapter.CardViewHolder
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/recyclerAdapter/UserAndIcons.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.recyclerAdapter.UserAndIcons
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/recyclerAdapter/CardAdapter.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.recyclerAdapter.CardAdapter
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/data/Users.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.data.Users
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/BuildConfig.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.BuildConfig
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/activities/RecyclerListActivity.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.activities.RecyclerListActivity
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.activities.RecyclerListActivity$1
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/touchHelper/UserTouchHelper.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.touchHelper.UserTouchHelper
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/activities/SplashActivity.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.activities.SplashActivity
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.activities.SplashActivity$1
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/oldVersions/UserListActivity.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.oldVersions.UserListActivity
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.oldVersions.UserListActivity$1
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/data/User.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.data.User
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/activities/MainActivity.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.activities.MainActivity
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/onClickListeners/RecyclerViewEditClickListener.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.onClickListeners.RecyclerViewEditClickListener
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/touchHelper/ItemTouchHelperAdapter.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.touchHelper.ItemTouchHelperAdapter
+at/htlkaindorf/ahme17/pusthy16/relaxsesselsteuerungv2/gui/activities/NFCActivity.java
+ at.htlkaindorf.ahme17.pusthy16.relaxsesselsteuerungv2.gui.activities.NFCActivity

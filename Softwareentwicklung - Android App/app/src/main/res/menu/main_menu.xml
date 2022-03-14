@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home"
+            android:icon="@drawable/home"/>
+
+        <item
+            android:id="@+id/nav_nfc"
+            android:title="@string/menu_nfc"
+            android:icon="@drawable/ic_nfc"/>
+
+        <item
+            android:id="@+id/nav_user"
+            android:title="@string/menu_user"
+            android:icon="@drawable/ic_user"/>
+    </group>
+
+
+    <item
+        android:id="@+id/nav_loaduser"
+        android:title="@string/menu_load"
+        android:icon="@drawable/ic_load"/>
+
+    <item
+        android:id="@+id/nav_saveposition"
+        android:title="@string/menu_save"
+        android:icon="@drawable/ic_baseline_save_alt_24"/>
+
+</menu>
+
+

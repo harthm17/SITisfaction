@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Relaxsessel Steuerung V2</string>
+    <string name="toolbar_app_name">Relaxsessel Steuerung</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_header">Menü</string>
+    <string name="menu_home">Hauptseite</string>
+    <string name="menu_nfc">NFC</string>
+    <string name="menu_user">Benutzer</string>
+    <string name="menu_load">Position laden</string>
+    <string name="menu_save">Position speichern</string>
+    <string name="dialog_load_">Wollen Sie die Lieblingsposition des aktuellen Benutzers laden?</string>
+    <string name="dialog_save">Wollen Sie Ihre derzeitige Sitzposition speichern?</string>
+    <string name="toolbar_list_name">Benutzerliste</string>
+    <string name="dialog_hint">Benutzername</string>
+    <string name="dialog_delete_head">Benutzer löschen</string>
+    <string name="dialog_delete">Sind Sie sicher, dass Sie diesen Benutzer löschen wollen?</string>
+    <string name="positive_button">JA</string>
+    <string name="negative_button">NEIN</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">BEENDEN</string>
+    <string name="dialog_nfc_headline">NFC aktivieren?</string>
+    <string name="dialog_nfc_text">Wollen Sie die NFC-Funktion Ihres Smartphones aktivieren?</string>
+</resources>
